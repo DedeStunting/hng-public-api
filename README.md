@@ -54,7 +54,6 @@ Click Send and check the response.
 **Run Locally**
 **Clone the repository:**
 git clone https://github.com/DedeStunting/hng-public-api.git
-cd hng-public-api
 
 **Install dependencies:**
 npm install
@@ -88,6 +87,9 @@ Set environment variables (EMAIL).
 Deploy and get your public API URL.
 
 📝 Author
+
+---
+
 **Name:** David Chiedu
 **GitHub:** DedeStunting
 
